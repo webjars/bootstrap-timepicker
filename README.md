@@ -1,5 +1,5 @@
-WebJar for [Library]
+WebJar for Bootstrap Timepicker
 
 More info: http://webjars.org
 
-Upstream: [Library URL]
+Upstream: http://jdewit.github.com/bootstrap-timepicker/
