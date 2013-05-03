@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bootstrap-timepicker</artifactId>
-    <version>0.2.2-SNAPSHOT</version>
+    <version>0.2.1-1-SNAPSHOT</version>
     <name>Bootstrap Timepicker</name>
     <description>WebJar for Bootstrap Timepicker</description>
     <url>http://webjars.org</url>
