@@ -49,7 +49,7 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>0.2.2</upstream.version>
+        <upstream.version>0.2.3</upstream.version>
         <upstream.url>https://github.com/jdewit/bootstrap-timepicker/archive</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
     </properties>
