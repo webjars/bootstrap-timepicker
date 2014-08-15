@@ -52,6 +52,13 @@
         <upstream.version>0.2.3</upstream.version>
         <upstream.url>https://github.com/jdewit/bootstrap-timepicker/archive</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
+    
+        <requirejs>
+        {
+        "paths": { "bootstrap-timepicker": "js/bootstrap-timepicker", "bootstrap-timepicker-min": "js/bootstrap-timepicker.min" },
+        "shim": { "bootstrap-timepicker": [ "bootstrap" ], "bootstrap-timepicker-min": [ "bootstrap" ] }
+        }
+        </requirejs>
     </properties>
 
     <build>
