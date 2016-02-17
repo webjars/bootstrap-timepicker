@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bootstrap-timepicker</artifactId>
-    <version>0.5.2</version>
+    <version>0.5.3-SNAPSHOT</version>
     <name>Bootstrap Timepicker</name>
     <description>WebJar for Bootstrap Timepicker</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/bootstrap-timepicker</url>
         <connection>scm:git:https://github.com/webjars/bootstrap-timepicker.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bootstrap-timepicker.git</developerConnection>
-        <tag>bootstrap-timepicker-0.5.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
